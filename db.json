@@ -1,0 +1,39 @@
+{
+    "p":[
+        {
+            "id":1,
+            "title":"محصول 1",
+            "link":"/?view=1",
+            "pic":"/files/testdomain/12332771383.jpg",
+            "pric":75000
+        },
+        {
+            "id":2,
+            "title":"محصول 2",
+            "link":"/?view=1",
+            "pic":"/files/testdomain/12332771383.jpg",
+            "pric":75000
+        },
+        {
+            "id":3,
+            "title":"محصول 3",
+            "link":"/?view=1",
+            "pic":"/files/testdomain/12332771383.jpg",
+            "pric":75000
+        },
+        {
+            "id":4,
+            "title":"محصول 4",
+            "link":"/?view=1",
+            "pic":"/files/testdomain/12332771383.jpg",
+            "pric":75000
+        },
+        {
+            "id":5,
+            "title":"محصول 5",
+            "link":"/?view=1",
+            "pic":"/files/testdomain/12332771383.jpg",
+            "pric":75000
+        }
+    ]
+}
