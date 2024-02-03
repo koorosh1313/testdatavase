@@ -1,45 +1,13 @@
 {
     "p": [
         {
-            "id": 1,
-            "title": "محصول 1",
-            "link": "/?view=1",
-            "pic": "/files/testdomain/12332771383.jpg",
-            "price": 75000,
-            "qty": 2
-        },
-        {
             "id": 2,
             "title": "محصول 2",
             "link": "/?view=1",
             "pic": "/files/testdomain/12332771383.jpg",
             "price": 42000,
             "qty": 1
-        },
-        {
-            "id": 3,
-            "title": "محصول 3",
-            "link": "/?view=1",
-            "pic": "/files/testdomain/12332771383.jpg",
-            "price": 36000,
-            "qty": 4
-        },
-        {
-            "id": 4,
-            "title": "محصول 4",
-            "link": "/?view=1",
-            "pic": "/files/testdomain/12332771383.jpg",
-            "price": 110000,
-            "qty": 3
-        },
-        {
-            "id": 5,
-            "title": "محصول 5",
-            "link": "/?view=1",
-            "pic": "/files/testdomain/12332771383.jpg",
-            "price": 1500000,
-            "qty": 4
         }
     ],
-    "totalprice": 480000
+    "totalprice": 42000
 }
